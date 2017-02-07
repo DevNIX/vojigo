@@ -1,0 +1,30 @@
+{
+  "name": "vojigo",
+  "version": "0.0.0",
+  "description": "It is a CommonJS DOM-based routing system based on the Garber-Irish implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevNIX/vojigo.git"
+  },
+  "keywords": [
+    "commonjs",
+    "controller",
+    "dom",
+    "garber",
+    "irish",
+    "javascript",
+    "requirejs",
+    "routing",
+    "template"
+  ],
+  "author": "controller",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DevNIX/vojigo/issues"
+  },
+  "homepage": "https://github.com/DevNIX/vojigo#readme"
+}
